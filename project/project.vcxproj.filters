@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GameWorld.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="LabelManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ParticleGenerator.cpp" />
+    <ClCompile Include="Physicis.cpp" />
+    <ClCompile Include="Role.cpp" />
+    <ClCompile Include="TestBehaviour.cpp" />
+    <ClCompile Include="Trap.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="Land.cpp" />
+    <ClCompile Include="Items.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Behaviour.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="GameWorld.h" />
+    <ClInclude Include="GlobalValue.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="Items.h" />
+    <ClInclude Include="LabelManager.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="MiniMath.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="ParticleGenerator.h" />
+    <ClInclude Include="SourceManager.h" />
+    <ClInclude Include="Physicis.h" />
+    <ClInclude Include="Role.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="Skybox.h" />
+    <ClInclude Include="Tags.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="TimerManager.h" />
+    <ClInclude Include="Transform.h" />
+    <ClInclude Include="Trap.h" />
+    <ClInclude Include="DirLight.h" />
+    <ClInclude Include="Light.h" />
+    <ClInclude Include="PointLight.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="DestoryManager.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="Land.h" />
+  </ItemGroup>
+</Project>

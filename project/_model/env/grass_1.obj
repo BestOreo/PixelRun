@@ -1,0 +1,16 @@
+﻿mtllib grass_1.mtl
+usemtl palette
+
+g grass_1_0_
+v 5 0 -5
+v -5 0 -5
+v 5 0 5
+v -5 0 5
+
+vt 1 0
+vt 0 0
+vt 1 1
+vt 0 1
+
+f 1/1 2/2 3/3
+f 3/3 2/2 4/4

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+	Automatically converted from Wavefront OBJ
+
+-->
+
+<scene version="0.5.0">
+	<integrator id="integrator" type="direct"/>
+
+	<bsdf id="Material_material" type="diffuse">
+		<texture name="reflectance" type="bitmap" id="chr_gumi.png">
+			<string name="filename" value="textures/chr_gumi.png"/>
+		</texture>
+	</bsdf>
+
+	<shape id="Model_mesh" type="serialized">
+		<string name="filename" value="chr_gumi.serialized"/>
+		<integer name="shapeIndex" value="0"/>
+		<bsdf type="diffuse"/>
+	</shape>
+
+</scene>

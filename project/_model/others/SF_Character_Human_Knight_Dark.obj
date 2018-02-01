@@ -1,0 +1,192 @@
+#SF_Character_Human_Knight_Dark.obj
+#Friday, January 12, 2018
+#4:45:59 PM
+#-------
+
+mtllib SF_Character_Human_Knight_Dark.mtl
+#SF_Character_Human_Knight_Dark
+#-------
+g SF_Character_Human_Knight_Dark
+#Hips_jnt
+#-------
+g Hips_jnt
+#Spine_jnt
+#-------
+g Spine_jnt
+#Spine_jnt 1
+#-------
+g Spine_jnt 1
+#Chest_jnt
+#-------
+g Chest_jnt
+#Neck_jnt
+#-------
+g Neck_jnt
+#Head_jnt
+#-------
+g Head_jnt
+#Shoulder_Left_jnt
+#-------
+g Shoulder_Left_jnt
+#Arm_Left_jnt
+#-------
+g Arm_Left_jnt
+#Forearm_Left_jnt
+#-------
+g Forearm_Left_jnt
+#Hand_Left_jnt
+#-------
+g Hand_Left_jnt
+#Shoulder_Right_jnt
+#-------
+g Shoulder_Right_jnt
+#Arm_Right_jnt
+#-------
+g Arm_Right_jnt
+#Forearm_Right_jnt
+#-------
+g Forearm_Right_jnt
+#Hand_Right_jnt
+#-------
+g Hand_Right_jnt
+#UpperLeg_Left_jnt
+#-------
+g UpperLeg_Left_jnt
+#LowerLeg_Left_jnt
+#-------
+g LowerLeg_Left_jnt
+#Foot_Left_jnt
+#-------
+g Foot_Left_jnt
+#Toe_Left_jnt
+#-------
+g Toe_Left_jnt
+#UpperLeg_Right_jnt
+#-------
+g UpperLeg_Right_jnt
+#LowerLeg_Right_jnt
+#-------
+g LowerLeg_Right_jnt
+#Foot_Right_jnt
+#-------
+g Foot_Right_jnt
+#Toe_Right_jnt
+#-------
+g Toe_Right_jnt
+#SF_Character_Bard
+#-------
+g SF_Character_Bard
+#SF_Character_Bartender
+#-------
+g SF_Character_Bartender
+#SF_Character_Doctor
+#-------
+g SF_Character_Doctor
+#SF_Character_Elf
+#-------
+g SF_Character_Elf
+#SF_Character_Elf_Assassin
+#-------
+g SF_Character_Elf_Assassin
+#SF_Character_Elf_Female
+#-------
+g SF_Character_Elf_Female
+#SF_Character_Elf_King
+#-------
+g SF_Character_Elf_King
+#SF_Character_Elf_Knight
+#-------
+g SF_Character_Elf_Knight
+#SF_Character_Executioner
+#-------
+g SF_Character_Executioner
+#SF_Character_Goblin_01
+#-------
+g SF_Character_Goblin_01
+#SF_Character_GoblinFemale
+#-------
+g SF_Character_GoblinFemale
+#SF_Character_GoblinKing
+#-------
+g SF_Character_GoblinKing
+#SF_Character_GoblinWarrior
+#-------
+g SF_Character_GoblinWarrior
+#SF_Character_GoblinWitchDoctor
+#-------
+g SF_Character_GoblinWitchDoctor
+#SF_Character_Jester
+#-------
+g SF_Character_Jester
+#SF_Character_King
+#-------
+g SF_Character_King
+#SF_Character_Knight_01
+#-------
+g SF_Character_Knight_01
+#SF_Character_Knight_02
+#-------
+g SF_Character_Knight_02
+#SF_Character_Knight_03
+#-------
+g SF_Character_Knight_03
+#SF_Character_Knight_Dark
+#-------
+g SF_Character_Knight_Dark
+#SF_Character_Knight_Gladiator_Closed
+#-------
+g SF_Character_Knight_Gladiator_Closed
+#SF_Character_Knight_Gladiator_Open
+#-------
+g SF_Character_Knight_Gladiator_Open
+#SF_Character_Knight_Heavy_01
+#-------
+g SF_Character_Knight_Heavy_01
+#SF_Character_Knight_Heavy_02
+#-------
+g SF_Character_Knight_Heavy_02
+#SF_Character_Knight_Hood
+#-------
+g SF_Character_Knight_Hood
+#SF_Character_Knight_ShieldMaiden
+#-------
+g SF_Character_Knight_ShieldMaiden
+#SF_Character_Knight_Templar
+#-------
+g SF_Character_Knight_Templar
+#SF_Character_Knight_TinMan
+#-------
+g SF_Character_Knight_TinMan
+#SF_Character_PeasantMan_01
+#-------
+g SF_Character_PeasantMan_01
+#SF_Character_PeasantWoman_01
+#-------
+g SF_Character_PeasantWoman_01
+#SF_Character_Princess
+#-------
+g SF_Character_Princess
+#SF_Character_Undead_Footman_01
+#-------
+g SF_Character_Undead_Footman_01
+#SF_Character_Undead_Footman_02
+#-------
+g SF_Character_Undead_Footman_02
+#SF_Character_Undead_Heavy
+#-------
+g SF_Character_Undead_Heavy
+#SF_Character_Undead_King
+#-------
+g SF_Character_Undead_King
+#SF_Character_Undead_Rogue
+#-------
+g SF_Character_Undead_Rogue
+#SF_Character_Undead_Skeleton
+#-------
+g SF_Character_Undead_Skeleton
+#SF_Character_Wizard
+#-------
+g SF_Character_Wizard
+#SF_Characters_GoblinHunter
+#-------
+g SF_Characters_GoblinHunter
