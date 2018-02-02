@@ -1,7 +1,2 @@
-#PixelRun
-
-##Update
-###2017.12.17 22:24
-- Code organize
-- GameWorld(phase 1)
-- Skybox
+Graphics mini game with OpenGL 3.3, C++
+Youtobe:https://www.youtube.com/watch?v=hZ5aOTDIsh8
